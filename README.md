@@ -1,1 +1,1 @@
-# DeepLearning-Regularization
+# Deep Learning Regularization using Pytorch
